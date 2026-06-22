@@ -1,0 +1,13 @@
+{
+  "name": "oriz-nse-bse-tickers-api",
+  "version": "0.1.0",
+  "description": "Indian index snapshots (Sensex, Nifty 50, Bank Nifty, sector indices) — daily 18:30 IST.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

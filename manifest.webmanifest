@@ -1,0 +1,10 @@
+{
+  "name": "oriz-nse-bse-tickers-api",
+  "short_name": "nse-bse-tickers",
+  "description": "Indian index snapshots (Sensex, Nifty 50, Bank Nifty, sector indices) — daily 18:30 IST.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
